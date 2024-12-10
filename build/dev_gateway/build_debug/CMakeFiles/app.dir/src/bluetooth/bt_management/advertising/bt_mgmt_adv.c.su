@@ -1,0 +1,8 @@
+C:/ncs/v2.6.1/zephyr/include/zephyr/bluetooth/addr.h:242:19:bt_addr_le_to_str	64	static
+C:/ncs/v2.6.1/nrf/applications/nrf5340_audio/src/bluetooth/bt_management/advertising/bt_mgmt_adv.c:91:12:addr_print	152	dynamic,bounded
+C:/ncs/v2.6.1/nrf/applications/nrf5340_audio/src/bluetooth/bt_management/advertising/bt_mgmt_adv.c:137:12:direct_adv_create	72	static
+C:/ncs/v2.6.1/nrf/applications/nrf5340_audio/src/bluetooth/bt_management/advertising/bt_mgmt_adv.c:173:12:extended_adv_create	32	static
+C:/ncs/v2.6.1/nrf/applications/nrf5340_audio/src/bluetooth/bt_management/advertising/bt_mgmt_adv.c:222:13:advertising_process	56	static
+C:/ncs/v2.6.1/nrf/applications/nrf5340_audio/src/bluetooth/bt_management/advertising/bt_mgmt_adv.c:319:5:bt_mgmt_adv_start	56	static
+C:/ncs/v2.6.1/nrf/applications/nrf5340_audio/src/bluetooth/bt_management/advertising/bt_mgmt_adv.c:290:6:bt_mgmt_dir_adv_timed_out	40	static
+C:/ncs/v2.6.1/nrf/applications/nrf5340_audio/src/bluetooth/bt_management/advertising/bt_mgmt_adv.c:370:6:bt_mgmt_adv_init	8	static

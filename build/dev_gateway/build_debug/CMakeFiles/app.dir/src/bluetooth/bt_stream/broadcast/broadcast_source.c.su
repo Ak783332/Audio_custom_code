@@ -1,0 +1,14 @@
+C:/ncs/v2.6.1/nrf/applications/nrf5340_audio/src/bluetooth/bt_stream/broadcast/broadcast_source.c:297:13:bt_audio_codec_allocation_set	0	static
+C:/ncs/v2.6.1/nrf/applications/nrf5340_audio/src/bluetooth/bt_stream/broadcast/broadcast_source.c:100:12:get_stream_index	56	dynamic,bounded
+C:/ncs/v2.6.1/nrf/applications/nrf5340_audio/src/bluetooth/bt_stream/broadcast/broadcast_source.c:114:13:stream_sent_cb	24	static
+C:/ncs/v2.6.1/nrf/applications/nrf5340_audio/src/bluetooth/bt_stream/broadcast/broadcast_source.c:89:13:le_audio_event_publish	32	static
+C:/ncs/v2.6.1/nrf/applications/nrf5340_audio/src/bluetooth/bt_stream/broadcast/broadcast_source.c:135:13:stream_stopped_cb	136	dynamic,bounded
+C:/ncs/v2.6.1/nrf/applications/nrf5340_audio/src/bluetooth/bt_stream/broadcast/broadcast_source.c:122:13:stream_started_cb	72	dynamic,bounded
+C:/ncs/v2.6.1/nrf/applications/nrf5340_audio/src/bluetooth/bt_stream/broadcast/broadcast_source.c:171:13:public_broadcast_features_set	8	static
+C:/ncs/v2.6.1/nrf/applications/nrf5340_audio/src/bluetooth/bt_stream/broadcast/broadcast_source.c:196:12:adv_create	32	static
+C:/ncs/v2.6.1/nrf/applications/nrf5340_audio/src/bluetooth/bt_stream/broadcast/broadcast_source.c:305:6:broadcast_source_adv_get	4	static
+C:/ncs/v2.6.1/nrf/applications/nrf5340_audio/src/bluetooth/bt_stream/broadcast/broadcast_source.c:314:5:broadcast_source_start	8	static
+C:/ncs/v2.6.1/nrf/applications/nrf5340_audio/src/bluetooth/bt_stream/broadcast/broadcast_source.c:351:5:broadcast_source_stop	8	static
+C:/ncs/v2.6.1/nrf/applications/nrf5340_audio/src/bluetooth/bt_stream/broadcast/broadcast_source.c:377:5:broadcast_source_send	40	static
+C:/ncs/v2.6.1/nrf/applications/nrf5340_audio/src/bluetooth/bt_stream/broadcast/broadcast_source.c:394:5:broadcast_source_disable	8	static
+C:/ncs/v2.6.1/nrf/applications/nrf5340_audio/src/bluetooth/bt_stream/broadcast/broadcast_source.c:422:5:broadcast_source_enable	144	dynamic,bounded

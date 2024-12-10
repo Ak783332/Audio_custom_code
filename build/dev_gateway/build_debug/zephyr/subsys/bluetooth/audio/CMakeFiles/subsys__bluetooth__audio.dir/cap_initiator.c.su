@@ -1,0 +1,12 @@
+C:/ncs/v2.6.1/zephyr/subsys/bluetooth/audio/cap_initiator.c:47:13:data_func_cb	0	static
+C:/ncs/v2.6.1/zephyr/subsys/bluetooth/audio/cap_initiator.c:79:13:cap_initiator_valid_metadata	16	static
+C:/ncs/v2.6.1/zephyr/subsys/bluetooth/audio/cap_initiator.c:106:13:cap_initiator_broadcast_audio_start_valid_param	16	static
+C:/ncs/v2.6.1/zephyr/subsys/bluetooth/audio/cap_initiator.c:137:13:cap_initiator_broadcast_to_bap_broadcast_param	32	static
+C:/ncs/v2.6.1/zephyr/subsys/bluetooth/audio/cap_initiator.c:25:5:bt_cap_initiator_register_cb	0	static
+C:/ncs/v2.6.1/zephyr/subsys/bluetooth/audio/cap_initiator.c:187:5:bt_cap_initiator_broadcast_audio_create	88	static
+C:/ncs/v2.6.1/zephyr/subsys/bluetooth/audio/cap_initiator.c:225:5:bt_cap_initiator_broadcast_audio_start	8	static
+C:/ncs/v2.6.1/zephyr/subsys/bluetooth/audio/cap_initiator.c:241:5:bt_cap_initiator_broadcast_audio_update	16	static
+C:/ncs/v2.6.1/zephyr/subsys/bluetooth/audio/cap_initiator.c:263:5:bt_cap_initiator_broadcast_audio_stop	8	static
+C:/ncs/v2.6.1/zephyr/subsys/bluetooth/audio/cap_initiator.c:273:5:bt_cap_initiator_broadcast_audio_delete	8	static
+C:/ncs/v2.6.1/zephyr/subsys/bluetooth/audio/cap_initiator.c:290:5:bt_cap_initiator_broadcast_get_id	8	static
+C:/ncs/v2.6.1/zephyr/subsys/bluetooth/audio/cap_initiator.c:301:5:bt_cap_initiator_broadcast_get_base	8	static

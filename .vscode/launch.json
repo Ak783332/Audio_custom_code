@@ -1,0 +1,19 @@
+{
+	"version": "0.2.0",
+	"configurations": [
+		{
+			"type": "nrf-connect",
+			"request": "launch",
+			"name": "Launch Headset",
+			"config": "${workspaceFolder}/Headset",
+			"runToEntryPoint": "main"
+		},
+		{
+			"type": "nrf-connect",
+			"request": "launch",
+			"name": "Launch Gateway",
+			"config": "${workspaceFolder}/Gateway",
+			"runToEntryPoint": "main"
+		}
+	]
+}

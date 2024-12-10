@@ -1,0 +1,10 @@
+C:/ncs/v2.6.1/nrf/applications/nrf5340_audio/broadcast_source/main.c:48:13:stream_state_set	0	static
+C:/ncs/v2.6.1/zephyr/include/zephyr/zbus/zbus.h:584:27:zbus_chan_const_msg	8	static
+C:/ncs/v2.6.1/nrf/applications/nrf5340_audio/broadcast_source/main.c:228:13:bt_mgmt_evt_handler	8	static
+C:/ncs/v2.6.1/nrf/applications/nrf5340_audio/broadcast_source/main.c:259:12:zbus_link_producers_observers	8	static
+C:/ncs/v2.6.1/nrf/applications/nrf5340_audio/broadcast_source/main.c:187:12:zbus_subscribers_create	40	static
+C:/ncs/v2.6.1/nrf/applications/nrf5340_audio/broadcast_source/main.c:124:13:le_audio_msg_sub_thread	40	static
+C:/ncs/v2.6.1/nrf/applications/nrf5340_audio/broadcast_source/main.c:56:13:button_msg_sub_thread	32	static
+C:/ncs/v2.6.1/nrf/applications/nrf5340_audio/broadcast_source/main.c:288:9:stream_state_get	0	static
+C:/ncs/v2.6.1/nrf/applications/nrf5340_audio/broadcast_source/main.c:293:6:streamctrl_send	24	static
+C:/ncs/v2.6.1/nrf/applications/nrf5340_audio/broadcast_source/main.c:315:5:main	208	dynamic,bounded

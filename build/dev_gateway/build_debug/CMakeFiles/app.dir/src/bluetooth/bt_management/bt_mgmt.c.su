@@ -1,0 +1,8 @@
+C:/ncs/v2.6.1/nrf/applications/nrf5340_audio/src/bluetooth/bt_management/bt_mgmt.c:248:13:bt_enabled_cb	16	static
+C:/ncs/v2.6.1/nrf/applications/nrf5340_audio/src/bluetooth/bt_management/bt_mgmt.c:278:12:ficr_static_addr_set	8	static
+C:/ncs/v2.6.1/zephyr/include/zephyr/bluetooth/addr.h:242:19:bt_addr_le_to_str	64	static
+C:/ncs/v2.6.1/nrf/applications/nrf5340_audio/src/bluetooth/bt_management/bt_mgmt.c:335:12:local_identity_addr_print	120	dynamic,bounded
+C:/ncs/v2.6.1/nrf/applications/nrf5340_audio/src/bluetooth/bt_management/bt_mgmt.c:358:5:bt_mgmt_bonding_clear	0	static
+C:/ncs/v2.6.1/nrf/applications/nrf5340_audio/src/bluetooth/bt_management/bt_mgmt.c:375:5:bt_mgmt_pa_sync_delete	8	static
+C:/ncs/v2.6.1/nrf/applications/nrf5340_audio/src/bluetooth/bt_management/bt_mgmt.c:393:5:bt_mgmt_conn_disconnect	8	static
+C:/ncs/v2.6.1/nrf/applications/nrf5340_audio/src/bluetooth/bt_management/bt_mgmt.c:411:5:bt_mgmt_init	8	static

@@ -1,0 +1,10 @@
+C:/ncs/v2.6.1/nrf/applications/nrf5340_audio/src/bluetooth/bt_management/scanning/bt_mgmt_scan_for_broadcast.c:78:17:interval_to_sync_timeout	0	static
+C:/ncs/v2.6.1/nrf/applications/nrf5340_audio/src/bluetooth/bt_management/scanning/bt_mgmt_scan_for_broadcast.c:46:13:scan_restart_worker	16	static
+C:/ncs/v2.6.1/nrf/applications/nrf5340_audio/src/bluetooth/bt_management/scanning/bt_mgmt_scan_for_broadcast.c:69:13:pa_sync_timeout	8	static
+C:/ncs/v2.6.1/zephyr/include/zephyr/bluetooth/addr.h:137:20:bt_addr_le_copy	0	static
+C:/ncs/v2.6.1/nrf/applications/nrf5340_audio/src/bluetooth/bt_management/scanning/bt_mgmt_scan_for_broadcast.c:133:13:scan_check_broadcast_source	24	static
+C:/ncs/v2.6.1/nrf/applications/nrf5340_audio/src/bluetooth/bt_management/scanning/bt_mgmt_scan_for_broadcast.c:94:13:periodic_adv_sync	40	static
+C:/ncs/v2.6.1/nrf/applications/nrf5340_audio/src/bluetooth/bt_management/scanning/bt_mgmt_scan_for_broadcast.c:177:13:scan_recv_cb	112	dynamic,bounded
+C:/ncs/v2.6.1/nrf/applications/nrf5340_audio/src/bluetooth/bt_management/scanning/bt_mgmt_scan_for_broadcast.c:234:13:pa_sync_terminated_cb	40	static
+C:/ncs/v2.6.1/nrf/applications/nrf5340_audio/src/bluetooth/bt_management/scanning/bt_mgmt_scan_for_broadcast.c:206:13:pa_synced_cb	40	static
+C:/ncs/v2.6.1/nrf/applications/nrf5340_audio/src/bluetooth/bt_management/scanning/bt_mgmt_scan_for_broadcast.c:255:5:bt_mgmt_scan_for_broadcast_start	24	static
